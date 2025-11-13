@@ -28,6 +28,7 @@ async function criarProduto(produto) {
         }
 
         mostrarMensagem('Produto criado com sucesso');
+        listarProdutos();
         return true;
     } catch (erro) { 
         console.error('Erro:', erro);
