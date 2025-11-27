@@ -8,6 +8,9 @@ Este projeto foi criado com o objetivo de exemplificar a implementação de um s
 
 O sistema simula o gerenciamento de produtos de um supermercado, permitindo operações básicas de cadastro, listagem, edição e exclusão de itens.
 
+## Repositórios
+- **Backend (Java)**: https://github.com/PedroVictor-PV/crud-web-backend/tree/main
+
 ## ✨ Funcionalidades
 
 ### 1. **Adicionar Produto**
